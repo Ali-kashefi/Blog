@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<img width="1295" height="642" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/bb00ee13-7335-4bc2-8466-8196a010a8e9" />
+<img width="1301" height="645" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/2510b06b-3eb6-4b36-82d2-311f06d0e991" />
+<img width="1286" height="641" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/b56f6913-3b7b-4aa9-8a00-4485502ae2da" />
+<img width="1300" height="637" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/ad918db5-72f2-4f7a-a639-7004eb897a51" />
+<img width="189" height="426" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/f4556c66-ffaf-4026-b0b5-c5eff2856618" />
+<img width="1293" height="644" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/0c83c0ee-58d6-49a9-83b5-de08a020f7ee" />
+<img width="1298" height="644" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/537831b9-88ef-4733-bdf1-1bc6a7357a30" />
+<img width="1290" height="649" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/5dbf7983-57d8-4759-ac5d-48e3724e4585" />
+<img width="1294" height="653" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/55ea2cad-5bba-404e-901f-a9ab648c08ce" />
+<img width="1281" height="646" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/159a23ca-775b-495d-be64-4e5660871f2e" />
+<img width="1271" height="556" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/968f98e7-b579-4547-967c-1356a82f3eea" />
+<img width="1278" height="645" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/dca5be29-e85a-4f1d-aaa8-04dde4049917" />
+<img width="1281" height="641" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/37e04ecd-cd6f-4eff-b992-9323107c0b23" />
+<img width="1300" height="646" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/738f2e53-a419-40dc-9b0d-f7e3a7cf80ef" />
