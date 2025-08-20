@@ -68,7 +68,7 @@ Axios (ارتباط با API)
 
 🚀 نصب و راه‌اندازی
 
-کلون کردن پروژه:git clone https://github.com/Ali-kashefi/[your-repo].git
+کلون کردن پروژه:git@github.com:Ali-kashefi/Blog.git
 
 
 نصب دیپندنسی‌ها:npm install
