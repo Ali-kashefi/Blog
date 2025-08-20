@@ -64,6 +64,7 @@ Axios (ارتباط با API)
 
 
 گیف عملکرد پروژه
+![Untitled Video August 21, 2025 12_24 AM (1)](https://github.com/user-attachments/assets/598c2664-59a0-46d5-bdbd-fed3a1fac844)
 
 
 🚀 نصب و راه‌اندازی
